@@ -8,7 +8,7 @@ function Me() {
   const { ownerInfo, setPageTitle } = useContext(DataContext);
 
   //variables
- // let mineImage = myImage;
+  let mineImage = "";
   let myName = "Chance nyasulu";
   let myDescription = "none";
 
